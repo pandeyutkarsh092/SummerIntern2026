@@ -12,6 +12,6 @@ console.log(age);
 console.log(typeof(age));
 let age2=null
 console.log(age2);
-console.log(typeof(age2));]  
+console.log(typeof(age2)); 
 
 
