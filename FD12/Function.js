@@ -8,6 +8,8 @@
 // harsh()
 // harsh()
 
+//fuction with argument
+
 function multiplication(a,b,c){
     console.log("Multiplication of numbers :", a*b*c);
 }
