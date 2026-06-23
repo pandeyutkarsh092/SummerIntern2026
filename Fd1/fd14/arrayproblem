@@ -1,0 +1,8 @@
+//traverse the array
+let cricket=["virendra","kapil dev","rahul dravid","lakshman","siddu"]
+    for(let i=0;i>=4;i++){
+        if(cricket[i]=="lakshman"){
+            break
+        }
+        console.log(cricket[i]);
+    }

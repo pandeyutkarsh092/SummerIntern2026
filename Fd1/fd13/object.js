@@ -4,9 +4,24 @@ let actor={
 }
 
 
-// ADd    
+// Add    
 actor.age45
 console.log(actor);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
